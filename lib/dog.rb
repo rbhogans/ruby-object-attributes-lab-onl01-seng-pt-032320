@@ -8,7 +8,7 @@ end
    @name
  end
 
- def name=(breed)
+ def breed=(breed)
    @breed = breed
  end
 
